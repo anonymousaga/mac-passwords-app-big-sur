@@ -7,4 +7,4 @@ How it works: opens safari preferences, then clicks on "Passwords" menu item on 
 **WORKS ON MACOS BIG SUR (11) AND OLDER - ONLY TESTED ON BIG SUR
 **
 
-If you use macOS 12 Monterey, see my updated app: 
+If you use macOS 12 Monterey, see my updated app: https://github.com/anonymousaga/mac-passwords-app
